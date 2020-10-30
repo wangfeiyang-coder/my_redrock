@@ -1,0 +1,98 @@
+.hy{
+    background-color: #584cc0;
+    height: 60px;
+    line-height: 60px;
+}
+.hy a{
+    display: inline-block;
+    height: 41px;
+    font-size: 15px;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 0 66px;
+}
+a:hover{
+    color: navy;
+    background: #473bb4;
+}
+.sy{
+    display: inline-block;
+    height: 41px;
+    padding: 0 331px;
+    font-size: 20px;
+}
+.kk{
+    border-radius: 15px;
+    border: solid white;
+    height: 30px;
+    margin-top: -1%;
+}
+input{
+    outline: none;
+}
+.searchBox{
+    background-image:url('/jscss/demoimg/200906/glass.gif');
+    background-repeat:no-repeat;
+    padding-left:20px;
+    }
+    form{
+    display:inline;
+    }
+.ssq{
+    text-align: center;
+    margin-top: 100px;
+}
+.ssq a{
+      display: inline-block;
+      padding: 0 30px;
+      text-decoration: none;
+      font-size: 18px;
+      color: black;
+}
+a:hover{
+    color:skyblue;
+}
+.tp{
+    margin:1% 26% ; 
+}
+.cl{
+    display: block;
+    width: 120px;
+    height: 280px;
+    background-color:whitesmoke;
+    font-size: 20px;
+    color: black;
+    padding-left: 40px;
+    line-height: 50px;
+    margin-top: -16%;
+    margin-left: 10%;
+    text-decoration: none;   
+}
+.cl a{
+    display: inline-block;
+    text-decoration: none;
+}
+.infamation{
+    background-color:#fafbfc;
+    height: 880px;
+    width: 1072px;
+    margin: 140px 130px 0 130px;
+}
+.wz{
+    font-size: 18px;
+    color: #6965c2;
+    margin-bottom: 43px;
+    font-size: 19px;
+}
+.wz1{
+    height: 47px;
+    width: 308px;
+    font-size: 19px;
+}
+.picture{
+    margin: 0 17px 0 0;
+}
+p{
+    text-decoration: coral;
+
+}
